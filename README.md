@@ -1,2 +1,15 @@
-# Amazon-Clone
-Amazon website clone built using HTML and CSS
+# Amazon Clone (Frontend)
+
+This is a frontend clone of the Amazon website built using HTML and CSS.
+
+## Features
+- Home page layout
+- Product sections
+- Navigation bar
+- Responsive design
+
+## Tech Stack
+- HTML
+- CSS
+
+
