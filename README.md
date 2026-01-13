@@ -13,7 +13,7 @@ This is a frontend clone of the Amazon website built using HTML and CSS.
 - CSS
 
 ## Live Demo
-https://jatink25.github.io/Amazon-Clone/
+https://luminous-monstera-8e0d59.netlify.app/
 
 ## Screenshot
 ![Amazon Clone](amazon-clone.png)
