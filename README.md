@@ -12,4 +12,6 @@ This is a frontend clone of the Amazon website built using HTML and CSS.
 - HTML
 - CSS
 
+## Live Demo
+https://jatink25.github.io/Amazon-Clone/
 
